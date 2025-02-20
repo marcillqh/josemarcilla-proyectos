@@ -1,0 +1,10 @@
+C:\Users\pjonn\source\repos\majonchos\bin\Debug\majonchos.exe.config
+C:\Users\pjonn\source\repos\majonchos\bin\Debug\majonchos.exe
+C:\Users\pjonn\source\repos\majonchos\bin\Debug\majonchos.pdb
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.csproj.AssemblyReference.cache
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.Form1.resources
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.Properties.Resources.resources
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.csproj.GenerateResource.cache
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.exe
+C:\Users\pjonn\source\repos\majonchos\obj\Debug\majonchos.pdb
