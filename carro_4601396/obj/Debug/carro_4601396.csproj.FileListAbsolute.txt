@@ -1,0 +1,14 @@
+C:\Users\pjonn\source\repos\carro_4601396\bin\Debug\carro_4601396.exe.config
+C:\Users\pjonn\source\repos\carro_4601396\bin\Debug\carro_4601396.exe
+C:\Users\pjonn\source\repos\carro_4601396\bin\Debug\carro_4601396.pdb
+C:\Users\pjonn\source\repos\carro_4601396\obj\Debug\carro_4601396.csproj.AssemblyReference.cache
+C:\Users\pjonn\source\repos\carro_4601396\obj\Debug\carro_4601396.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\source\repos\carro_4601396\obj\Debug\carro_4601396.exe
+C:\Users\pjonn\source\repos\carro_4601396\obj\Debug\carro_4601396.pdb
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\bin\Debug\carro_4601396.exe.config
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\bin\Debug\carro_4601396.exe
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\bin\Debug\carro_4601396.pdb
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\obj\Debug\carro_4601396.csproj.AssemblyReference.cache
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\obj\Debug\carro_4601396.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\obj\Debug\carro_4601396.exe
+C:\Users\pjonn\OneDrive\Desktop\visual marci\carro_4601396\obj\Debug\carro_4601396.pdb

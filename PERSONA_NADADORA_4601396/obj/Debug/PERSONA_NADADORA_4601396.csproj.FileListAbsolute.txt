@@ -1,0 +1,14 @@
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.csproj.AssemblyReference.cache
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.exe.config
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.exe
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.pdb
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.exe
+C:\Users\pjonn\source\repos\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.pdb
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.exe.config
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.exe
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\bin\Debug\PERSONA_NADADORA_4601396.pdb
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.csproj.AssemblyReference.cache
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.csproj.CoreCompileInputs.cache
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.exe
+C:\Users\pjonn\OneDrive\Desktop\visual marci\PERSONA_NADADORA_4601396\obj\Debug\PERSONA_NADADORA_4601396.pdb
